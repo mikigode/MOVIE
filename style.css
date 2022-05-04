@@ -23,9 +23,9 @@ header {
 }
 
 .logo {
+    margin-left: 70px;
     margin-right: auto;
     color: #eee;
-    margin-left: 30px;
 }
 
 .logo h1 {
